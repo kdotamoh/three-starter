@@ -1,1 +1,1 @@
-From [@coleslayer](https://github.com/colesayer)'s Medium article: https://medium.com/@colesayershapiro/using-three-js-in-react-6cb71e87bdf4
+From [@colesayer](https://github.com/colesayer)'s Medium article: https://medium.com/@colesayershapiro/using-three-js-in-react-6cb71e87bdf4
